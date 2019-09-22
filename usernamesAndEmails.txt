@@ -1,0 +1,21 @@
+Student Name        Datatel#  Username       Email               
+--------------------------------------------------------------------------------
+Astorga, Raphael    2964092   astorgr4092    astorgr4092@student.faytechcc.edu
+Bedrin, Katie       3269200   bedrink9200    bedrink9200@student.faytechcc.edu
+Beken, Rachel       2080785   bekenr0785     bekenr0785@student.faytechcc.edu
+Campos, Eduardo     5829581   campose9581    campose9581@student.faytechcc.edu
+Canjura, Gabriela   9710791   canjurg0791    canjurg0791@student.faytechcc.edu
+Colon, Wendy        6954585   colonw4585     colonw4585@student.faytechcc.edu
+Graves, Leyla       3878105   gravesl8105    gravesl8105@student.faytechcc.edu
+Guerri, Matthew     1279702   guerrim9702    guerrim9702@student.faytechcc.edu
+Hathaway, Alexander 6652819   hathawa2819    hathawa2819@student.faytechcc.edu
+Jessell, Morgaan    8038766   jesselm8766    jesselm8766@student.faytechcc.edu
+Madrigal, Teresa    9572075   madrigt2075    madrigt2075@student.faytechcc.edu
+Messinger, William  6862063   messinw2063    messinw2063@student.faytechcc.edu
+Miller, Kimberly    7307217   millerk7217    millerk7217@student.faytechcc.edu
+Molina, Juanita     1859933   molinaj9933    molinaj9933@student.faytechcc.edu
+Panosian, Alexander 6008254   panosia8254    panosia8254@student.faytechcc.edu
+Quispe, Eric        6022583   quispee2583    quispee2583@student.faytechcc.edu
+Quispe, Isabelle    8321370   quispei1370    quispei1370@student.faytechcc.edu
+Rodriguez, Carolina 4537477   rodrigc7477    rodrigc7477@student.faytechcc.edu
+Topping, Brittany   5536378   toppinb6378    toppinb6378@student.faytechcc.edu

@@ -1,0 +1,58 @@
+                        Product Sales Report
+                         
+Item           Customer            Item                Price Per      
+Number         Name                Description         Unit           
+----------------------------------------------------------------------
+001-004        ACTION, JOHN C.     BINDER, 3 RING      $1.00          
+001-185        DONNEGER, THOMAS N. FLIP FILES          $7.00          
+001-730        REEDE, OWEN W.      DEC RIBBON          $9.00          
+001-960        WINGLAND, KEITH E.  EXTERNAL CABLE      $5.00          
+003-111        CARTOLER, VIOLET B. FICHE FILES         $3.20          
+003-304        FROMM, STEVE V.     ROTARY STANDS       $0.40          
+003-030        ALLOREN, RUTH W.    FLEXIBLE DISK       $3.80          
+003-181        DELBERT, EDWARD D.  TRAVEL CASE         $4.50          
+003-487        KING, MILDRED J.    CONTROL BOARDS      $4.73          
+003-027        ALHOUER, ELAINE E.  INDEX TABS          $2.80          
+003-171        COSTA, NAN S.       ALBUMS              $0.00          
+005-308        GLEASON, JAMES E.   DISK HOLDER         $7.00          
+005-568        LYNNE, GERALD H.    MCA BINDERS         $8.00          
+005-909        UDSON, DORIS M.     MYLAR TAPE          $5.00          
+006-292        EVERLY, DONNA M.    FICHE MAILERS       $7.00          
+006-409        ICK, MICK W.        REFERENCE RACK      $9.00          
+006-607        ODELLE, NICHOLAS P. MCA PORTA DISK      $7.00          
+006-825        TILLMAN, DON M.     PAPER TAPE TRAY     $4.50          
+008-214        EDMONSON, RICK T.   FICHE BINDERS       $9.00          
+008-310        GORMALLY, MARIE N.  MULTI-DISK RACK     $6.00          
+008-322        HARLETON, JEAN H.   DATA BATCH BAGS     $5.50          
+008-505        LAMBERT, JERRY D.   REPORT COVERS       $1.50          
+008-921        ULL, GEORGE         DEC CONNECTORS      $5.50          
+009-105        BOYLE, RALPH P.     FICHE PANELS        $2.00          
+009-215        EDSON, WILBUR S.    FICHE PAGES         $9.20          
+009-574        MELTZ, FRANK K.     CODING FORMS        $2.72          
+009-820        TELLER, STEPHEN U.  DISK FILTER         $2.36          
+002-300        FELDMAN, MIKE R.    MAG CARD PANELS     $3.00          
+002-325        HATFIELD, MARK I.   CLAMP BINDERS       $9.00          
+002-590        NEIL, CLARENCE N.   PRINTOUT DESIGN     $0.40          
+002-801        SCHEIBER, HARRY R.  CASSETTE STAND      $9.60          
+002-956        WANGLEY, THEO A.    INTERNAL CABLE      $5.20          
+004-311        GROLER, GRACE B.    CARD HOLDER         $5.81          
+004-318        HANEY, CAROL S.     PUNCH TAPE          $6.00          
+004-834        TRAWLEY, HARRIS T.  TAPE WINDER         $0.00          
+004-317        HANABEE, ALETA O.   PLASTIC FILES       $0.86          
+004-721        RASSMUSEN, JOHN J.  LINE CANISTERS      $7.60          
+004-739        RIDEL, ROBERT R.    SILK RIBBON         $0.40          
+004-806        STOCKTON, NORMAN Q. DISK CARTRIDGES     $6.00          
+007-122        CENNA, DICK L.      DESK PADS           $4.00          
+007-207        EBERHARDT, RON G.   EASEL BINDERS       $7.00          
+007-100        BATES, TONY F.      RULER, FORMS        $4.00          
+007-179        DAMSON, ERIC C.     MINI BINDERS        $5.50          
+007-332        HELD, ANNA J.       FORMS CARRIERS      $2.00          
+007-689        OWNEY, REED M.      BOT MARKERS         $8.00          
+007-802        SHEA, MICHAEL H.    CASSETTE BOX        $1.00          
+010-102        BELLSLEY, ARTHUR A. TEMPLATE            $4.50          
+010-282        ESTABAN, JUAN L.    VINYL POCKETS       $2.81          
+010-315        HALE, ALAN A.       MAGNETIC SHIELD     $7.20          
+010-740        RIDGEFIELD, SUZY S. HANGING FILES       $5.43          
+----------------------------------------------------------------------
+Average Price of an Item: $4.76
+Total Cost of Items: $238.02
